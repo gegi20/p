@@ -1,0 +1,59 @@
+.divi1 {
+    padding: 20px;
+
+    border: 3px solid red;
+    background-color: rgb(252, 237, 237);
+    width: 400px;
+    border-radius: 20px;
+}
+
+.divi1 p {
+    border: 1px solid red;
+    padding: 10px;
+
+    border-radius: 10px;
+    color: red;
+    backdrop-filter: rgb(228, 228, 228);
+}
+
+.divi3 {
+    display: flex;
+    align-items: center;
+    flex-direction: column;
+
+    width: 100%;
+}
+
+.divi2 {
+    margin-top: 30px;
+    border: 3px dashed green;
+    background-color: rgb(227, 247, 227);
+    padding: 20px;
+    border-radius: 20px;
+    width: 500px;
+}
+
+.divi2 p {
+    border: 2px dotted green;
+    padding: 10px;
+    border-radius: 10px;
+    color: green;
+
+}
+
+.divi4 {
+    border: 3px solid purple;
+    background-color: rgb(255, 232, 255);
+    border-radius: 10px;
+    width: 300px;
+    padding: 10px;
+    margin-top: 20px;
+
+}
+
+.divi4 p {
+    border: 1px solid purple;
+    border-radius: 50px;
+    padding: 10px;
+    color: purple;
+}
